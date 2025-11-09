@@ -154,6 +154,6 @@ Attribution required if redistributed or modified.
 ## ✨ Author
 
 **Developed by:** HARSHITA SARDA  
-**Purpose:** Educational Prototype for Adaptive Learning Research / Assignment Submission  
+**Purpose:** Educational Prototype for Adaptive Learning Research   
 **Version:** 1.2  
 **Date:** 09 November 2025
